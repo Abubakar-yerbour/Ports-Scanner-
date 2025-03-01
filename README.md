@@ -16,7 +16,7 @@ A powerful and fast network scanning tool for scanning internet (WAN) and local 
 
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/Ports-Scanner.git
+git clone https://github.com/Abubakar-yerbour/Ports-Scanner-.git
 cd Ports-Scanner
 ```
 
